@@ -1,8 +1,8 @@
-# Title:
+# Title
 Design and Develop a C program to implement structures to read, write, compute average- marks and the students scoring above and below the average marks for a class of N students.
-# Problem Description:
+# Problem Description
 The program should prompt the user to input details for each student, such as their name and marks for different subjects. Then, it should calculate the average marks for the entire class and identify students who scored above and below this average. 
-# Method:
+# Method
 ### Use Structures in C. 
 
 <br>
