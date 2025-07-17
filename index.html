@@ -1,1 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>C Solution by jc-kirthi</title>
+  <style>
+    :root {
+      --bg-color: #121212;
+      --text-color: #e0e0e0;
+      --card-bg: #1e1e1e;
+      --header-bg: #0a84ff;
+      --badge-bg: #2c3e50;
+      --badge-border: #34495e;
+      --button-bg: #0a84ff;
+      --button-hover: #006dd6;
+    }
 
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: var(--header-bg);
+      color: white;
+      padding: 3.5rem 1rem 2.5rem; /* Increased top & bottom padding */
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      margin-top: 0.5rem;
+      margin-bottom: 0;
+    }
+
+    .top-button {
+      text-align: center;
+      margin: 2.5rem 0 1rem; /* Increased top margin for more gap */
+    }
+
+    .button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: var(--button-bg);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 0 0px rgba(10, 132, 255, 0.6);
+}
+
+.button:hover {
+  background-color: var(--button-hover);
+  transform: scale(1.05);
+  box-shadow: 0 0 12px rgba(10, 132, 255, 0.6), 0 0 20px rgba(10, 132, 255, 0.4);
+}
+
+
+    main {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    section {
+      background: var(--card-bg);
+      border-radius: 10px;
+      padding: 2rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    h2 {
+      color: var(--header-bg);
+      margin-bottom: 1rem;
+      margin-top: 0.6rem;
+    }
+
+    ul {
+      padding-left: 1.5rem;
+      line-height: 1.6;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 4px 8px;
+      background-color: var(--badge-bg);
+      border: 1px solid var(--badge-border);
+      border-radius: 5px;
+      font-size: 0.85rem;
+      margin-right: 8px;
+      margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>💻 C Programming Solution</h1>
+    <p>A curated collection of beginner to advanced C programs.</p>
+  </header>
+
+  <div class="top-button">
+    <a class="button" href="https://github.com/jc-kirthi/C-Solution" target="_blank">🌐 View on GitHub</a>
+
+  </div>
+
+  <main>
+    <section>
+      <h2>📁 Folder Structure</h2>
+      <ul>
+        <li><strong>1_Basic_Programs/</strong> – Programs on loops, conditionals, arrays</li>
+        <li><strong>2_LAB_Programs/</strong> – Official college lab assignments</li>
+        <li><strong>3_Additional_programs/</strong> – Extra practice and advanced logic</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>🛠 How to Use</h2>
+      <ul>
+        <li>Clone or download this repo</li>
+        <li>Open `.c` files in any C-supported IDE (like VS Code)</li>
+        <li>Compile using <code>gcc filename.c -o output</code> and run</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>🔗 Explore More</h2>
+      <span class="badge">C Language</span>
+      <span class="badge">Practice</span>
+      <span class="badge">Viva</span>
+      <span class="badge">Concept</span>
+      <span class="badge">Exam Prep</span>
+      <span class="badge">GitHub</span>
+    </section>
+  </main>
+
+  <footer>
+    © 2025 Kirthi JC <br>
+    Built with the motive to help learners explore and master C programming.
+  </footer>
+</body>
+</html>
