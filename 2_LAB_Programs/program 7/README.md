@@ -32,7 +32,7 @@ Use parameter passing techniques and string handling functions.
 
 ### *Comparsion ?*
 - It means checking whether two strings are equal or which one is greater.
-- strcmp() function from tring.h library is used.
+- strcmp() function from string.h library is used.
 
 
 
