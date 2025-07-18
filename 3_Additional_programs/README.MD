@@ -6,7 +6,7 @@
 - It must have a base condition to stop the recursive calls.
 ---
 ### *Dynamic Memory Allocation*
-- It is the process of allocating memory during runtime using functions from the stdlib.h library.
+- It is the process of allocating memory during runtime using functions from the <stdlib.h> library.
 - It is useful when we don’t know the size of data in advance.
 -  4 common functions:
 1. malloc () – Memory Allocation
