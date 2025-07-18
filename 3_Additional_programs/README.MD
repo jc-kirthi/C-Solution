@@ -11,10 +11,13 @@
 -  4 common functions:
 1. malloc () – Memory Allocation
      - It allocates a block of memory in the heap during runtime, but it does not initialize the memory (it may contain garbage values).
+<br>
 2. calloc () – Contiguous Allocation
     - It allocates memory like malloc () but initializes all values to 0. 
+<br>
 3. realloc () – Reallocate/Resize Memory
     -It is used to resize a previously allocated memory block using malloc () or calloc ()
+<br>
 4.  free () – Free Allocated Memory
     - It is used to release the memory that was previously allocated using malloc (), calloc (), or reallo c().
     - This helps avoid memory leaks.   
