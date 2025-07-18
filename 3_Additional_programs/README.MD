@@ -10,8 +10,7 @@
 - It is useful when we don’t know the size of data in advance.
 -  4 common functions:
 1. malloc () – Memory Allocation
-     - It allocates a block of memory in the heap during runtime, but it does not initialize the memory (it may contain garbage values).
-<br>
+     - It allocates a block of memory in the heap during runtime, but it does not initialize the memory (it may contain garbage values). <br>
 2. calloc () – Contiguous Allocation
     - It allocates memory like malloc () but initializes all values to 0. 
 <br>
