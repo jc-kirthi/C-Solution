@@ -1,7 +1,7 @@
 # Title:
 Design and Develop a C program to perform binary Search using user defined functions. 
 # Problem Description:
-The program should prompt the user to input elements into a onedimensional array and a target value to search for within the array.  
+The program should prompt the user to input elements into a one dimensional array and a target value to search for within the array.  
 # Method: 
 Use 1D array to store the integer elements.
 <br>
