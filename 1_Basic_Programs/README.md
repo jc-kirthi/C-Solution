@@ -20,7 +20,7 @@
 ### *Data Type*
 - It defines the type of data a variable can hold.
 - It also tells the compiler how much memory to reserve and how to interpret the data.
-- Examples: int,float,double
+- Examples: int, float, double
 ---
 ### *Constants*
 - It is a value that does not change during the execution of the program.
@@ -34,19 +34,18 @@
 ---
 ### *Keyword*
 - It is a reserved word in C that has a special meaning to the compiler.
-- keywords cannot be uaed as variable names or identifiers because they are part of the language syntax.-
+- It cannot be uaed as variable names or identifiers because they are part of the language syntax.
 ---
 ### *Void*
-- It 
-is a keyword in C that means no data type or no value.
+- It is a keyword in C that means no data type or no value.
 ---
 
 ### *Espace Squeneces*
 - They are special character combinations that start with a backslash \, used to represent non-printable or special characters in a string.
 - They are used in printf() or puts() for formatting output.
 - Example: 
-    - \n is used to entry a new line
-    - \t is used for tab space (8 spaces/position)
+    - \n is used to entry a new line.
+    - \t is used for tab space (8 spaces/position).
 
 ---
 ### *Value Assignment Methods*
@@ -97,6 +96,7 @@ This random, meaningless data is called a garbage value.
 - Memory size: row size * column size* data type size
 - Numberof elements: row size * column size
 - Address = starting address +(index value * data type size)
+---
 
 <br>
 // For more info head into LAB Programes ---> viva corner :) 
