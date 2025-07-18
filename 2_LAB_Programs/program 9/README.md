@@ -13,7 +13,7 @@ The program asks the user for the source and target text file names. The content
 - It allows a program to store data permanently, even after the program ends.
 
 ### *FILE ?*
-- It is a structure defined in the stdio.h library that stores all information about a file (like file pointer, name, mode, etc.).
+- It is a structure defined in the <stdio.h> library that stores all information about a file (like file pointer, name, mode, etc.).
 - It acts as a bridge between the file on disk and the program.
 
 ### *FILE *fp; ?*
