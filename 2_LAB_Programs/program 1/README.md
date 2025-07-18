@@ -11,11 +11,11 @@ The program should prompt the user to input an arithmetic expression, the calcul
 
 ### *Switch case ?*
 - It is a multi-way branch control statement that allows the execution of different code blocks based on the values.
-- It ia analternative to ladder if-else-if.
+- It is an alternative to ladder if-else-if.
 
 ### *Exit(0) function ?*
-- This function is avaiable under <stdlib.h> header file.
-- It terminates(comes out of) the program immediately.
+- This function is available under <stdlib.h> header file.
+- It terminates (comes out of) the program immediately.
  
 ### *Library ?*
 - It contains pre-defined functions which can be used directly.
