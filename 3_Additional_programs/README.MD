@@ -14,7 +14,7 @@
 2. calloc () – Contiguous Allocation
     - It allocates memory like malloc () but initializes all values to 0. 
 3. realloc () – Reallocate/Resize Memory
-    -It is used to resize a previously allocated memory block using malloc () or calloc ().
+    - It is used to resize a previously allocated memory block using malloc () or calloc ().
 4.  free () – Free Allocated Memory
     - It is used to release the memory that was previously allocated using malloc (), calloc (), or realloc ().
     - This helps avoid memory leaks.   
