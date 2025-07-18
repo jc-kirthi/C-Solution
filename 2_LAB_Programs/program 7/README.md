@@ -24,11 +24,11 @@ Use parameter passing techniques and string handling functions.
 - Helps in modular programming, improve code reusability, and make the program easier to understand and maintain.
 
 ### *String Handling Functions ?*
-- It is a set of predefined functions provided by the string.h library that allow us to perform operations on strings- such as copying, concatenating, comparing, finding length, and modifying strings.
+- It is a set of predefined functions provided by the <string.h> library that allow us to perform operations on strings- such as copying, concatenating, comparing, finding length, and modifying strings.
 
 ### *Concatenation ?*
 - It means joining two strings together to form one single string.
-- strcat() function which is available in the string.h library is used to perform string concatenation 
+- strcat() function which is available in the <string.h> library is used to perform string concatenation 
 
 ### *Comparsion ?*
 - It means checking whether two strings are equal or which one is greater.
