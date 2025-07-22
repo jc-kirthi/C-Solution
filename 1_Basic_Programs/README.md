@@ -95,7 +95,7 @@ This random, meaningless data is called a garbage value.
 ### *About Array*
 - Memory size: row size * column size* data type size
 - Numberof elements: row size * column size
-- Address = starting address +(index value * data type size)
+- Address = starting/base address + (index value * data type size/word size)
 ---
 
 <br>
