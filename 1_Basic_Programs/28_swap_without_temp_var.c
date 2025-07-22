@@ -1,6 +1,6 @@
 /* 
 program to swap two numbers without using a temporary variable.
- */
+*/
 
 #include <stdio.h>
 
@@ -19,7 +19,7 @@ int main()
     printf("a = %d\n", a);
     printf("b = %d\n", b);
 
-    // Swapping without temp variable
+    // Swapping without temp variable --- logic
     a = a + b;
     b = a - b;
     a = a - b;
