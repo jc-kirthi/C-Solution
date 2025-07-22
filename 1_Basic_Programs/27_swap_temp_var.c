@@ -1,7 +1,7 @@
 /* 
 program to swap two numbers using a temporary variable.
 This program takes two integers as input and swaps their values.
- */
+*/
 
 #include <stdio.h>
 
@@ -20,7 +20,7 @@ int main()
     printf("a = %d\n", a);
     printf("b = %d\n", b);
 
-    // Swap using temp
+    // Swap using temp ---- logic
     temp = a;
     a = b;
     b = temp;
