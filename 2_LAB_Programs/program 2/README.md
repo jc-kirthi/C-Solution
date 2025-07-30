@@ -12,6 +12,18 @@ The program should prompt the user to input the coefficients 'a', 'b' and 'c' of
 ### *Quaratic equation ?*
 - It is a second-degree polynomial equation of the form : ax^2 + bx + c = 0
 
+- if d (discriminant) > 0 :
+    - root1=(−b+d)/2a 
+    - root2=(−b−d)/2a
+
+- d == 0 :
+    - root1=root2= −b/2a
+
+- d < 0 :
+    - root1 = a+bi , root2 = a−bi
+        - a(real)= −b/2a
+        - b(img)= sqrt(d/2a) 
+
 ### *math.h ?*
 - It is a header file that provides declarations for mathematical functions.
 
@@ -27,5 +39,3 @@ The program should prompt the user to input the coefficients 'a', 'b' and 'c' of
    - %d	- Integer
    - %f  -  Float
    - %s	- String
-
-
