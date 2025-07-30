@@ -6,12 +6,12 @@ The program asks the user for the source and target text file names. The content
 ### File Input/Output.
 
 # Execution Procedure
-- Desktop >>> folder (say sample) >>> write your c program inisde it.
+- Desktop >>> create a new folder (say sample) inside >>> write your c program inisde it.
 - open sample folder >>> create a new text document >>> name it (ex: source) >>> open it >>> type the content.
 - Now, excute the C program.
 - For, the path of the source file >>> enter >>> source.txt
 - For, the path of the target file >>> enter >>> target.txt
-- target text file will automatically be created and copied successfully.  
+- target text file will automatically be created and copied successfully in the sample folder.  
 <br>
 
 # **Viva Corner**
