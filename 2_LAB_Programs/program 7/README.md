@@ -24,17 +24,28 @@ Use parameter passing techniques and string handling functions.
 - Helps in modular programming, improve code reusability, and make the program easier to understand and maintain.
 
 ### *String Handling Functions ?*
-- It is a set of predefined functions provided by the <string.h> library that allow us to perform operations on strings- such as copying, concatenating, comparing, finding length, and modifying strings.
+- It is a set of pre-defined functions provided by the 'string.h' library that allows us to perform operations, handle and manipulate strings.
+
+Some bulit-in functions:
+
+| Function    | Purpose                                     |
+| ----------- | ------------------------------------------- |
+| `strlen()`  | Get length of string                        |
+| `strcat()`  | Concatenate strings                         |
+| `strncat()` | Concatenate limited characters              |
+| `strcmp()`  | Compare two strings                         |
+| `strcpy()`  | Copy one string to another                  |
+| `strncpy()` | Copy limited characters from one to another |
+| `strrev()`  | Reverse a string (non-standard)             |
+| `strchr()`  | Find first occurrence of character          |
+| `strstr()`  | Find first occurrence of substring          |
 
 ### *Concatenation ?*
 - It means joining two strings together to form one single string.
-- strcat() function which is available in the <string.h> library is used to perform string concatenation 
+- strcat() function which is available in the string.h library is used to perform string concatenation 
 
 ### *Comparsion ?*
 - It means checking whether two strings are equal or which one is greater.
-- strcmp() function from string.h library is used.
-
-
-
+- strcmp() function from tring.h library is used.
 
 
