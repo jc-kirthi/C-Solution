@@ -23,7 +23,7 @@ int main()
     }
 
     //discriminant
-    d = (b * b) - (4 * a * c); //b^2 - 4ac
+    d = (b * b) - (4 * a * c); // b^2 - 4ac
     
     if(d > 0)
     {
@@ -43,7 +43,7 @@ int main()
     else
     {
         real = -b / (2.0 * a);
-        imag = sqrt(fabs(d))/ (2.0 * a); //fabs() is used to return the absolute value of the argument.
+        imag = sqrt(fabs(d))/ (2.0 * a); //fabs() is used to return the absolute value of the argument because we can't have negative value inisde sqrt().
         printf("\nThe roots are complex and imaginary....");
         printf("\nroot1 = %f + i%f\nroot2 = %f - i%f",real, imag,real, imag);
     }
