@@ -4,7 +4,6 @@ Write a C program that copy the contents of the source file to the target file.
 The program asks the user for the source and target text file names. The contents are copied from the source to the target file character by character. 
 # Method
 ### File Input/Output.
-<br>
 
 # Execution Procedure
 - Desktop >>> folder (say sample) >>> write your c program inisde it.
@@ -13,6 +12,7 @@ The program asks the user for the source and target text file names. The content
 - For, the path of the source file >>> enter >>> source.txt
 - For, the path of the target file >>> enter >>> target.txt
 - target text file will automatically be created and copied successfully.  
+<br>
 
 # **Viva Corner**
 
