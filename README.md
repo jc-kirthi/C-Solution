@@ -1,6 +1,8 @@
 # C SOLUTION - All-in-One Guide 🎯
 
-Curated set of **55+ well-structured programs** crafted to boost your understanding, strengthen your logic, and ace your viva!
+Curated set of **55+ well-structured programs** crafted to boost your understanding, strengthen your logic, and ace your viva!<br>
+If you found this helpful or interesting, please consider giving it a ⭐ on GitHub! <br>
+Your support motivates me to keep improving and sharing more solutions.
 
 ---
 
